@@ -1,5 +1,7 @@
 ## Apresentação
-![Logo](https://www.grupoescolar.com/wp-content/uploads/2021/03/editores-de-texto-B5.jpg)
+
+![EditorTexto](https://user-images.githubusercontent.com/121300540/210614033-c8d3696a-eb83-4ccd-a75b-4e0b82d43bad.png)
+
 
 
 
