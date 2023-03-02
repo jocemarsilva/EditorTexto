@@ -3,7 +3,7 @@
 ![EditorTexto](https://user-images.githubusercontent.com/121300540/210614033-c8d3696a-eb83-4ccd-a75b-4e0b82d43bad.png)
 
 
-## 📝Editor de Texto.
+# 📝Editor de Texto.
 
 Crie, edite, personalize documentos de textos, roteiros, blogs, anotações ou currículos impactantes.
 seja você um blogueiro, escritor, jornalista, colunista, estudante...
@@ -18,7 +18,7 @@ seja você um blogueiro, escritor, jornalista, colunista, estudante...
 - insira cores em valor hexadecimal de forma facil.
 - versão sem publicidades.
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
+## [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Status do Projeto
@@ -45,7 +45,7 @@ https://jocemarsilva.com.br/editor-de-texto/
  
 * ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
-## Autor
+# Autor
 
 ![imagem Jocemar Silva](https://jocemarsilva.com.br/wp-content/uploads/elementor/thumbs/059-pzemgxvl3opck1t4xrga9ldqsndfd5612bazlrj2jk.png)
 ##### Feito com ❤ por [Jocemar Silva](https://jocemarsilva.com.br/) ❤
