@@ -1,9 +1,9 @@
-## Apresentação
+# Apresentação
 
 ![EditorTexto](https://user-images.githubusercontent.com/121300540/210614033-c8d3696a-eb83-4ccd-a75b-4e0b82d43bad.png)
 
 
-# 📝Editor de Texto.
+## 📝Editor de Texto.
 
 Crie, edite, personalize documentos de textos, roteiros, blogs, anotações ou currículos impactantes.
 seja você um blogueiro, escritor, jornalista, colunista, estudante...
